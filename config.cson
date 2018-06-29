@@ -1,0 +1,62 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "8acf4b63-86bc-4f4c-8bef-4419cee60351"
+  "atom-clock":
+    dateFormat: "h:mm:ss A"
+    refreshInterval: 1
+    showClockIcon: true
+    showTooltip: true
+  "chrome-color-picker":
+    General:
+      showButtons: true
+  "color-tabs":
+    backgroundStyle: "solid"
+    markerStyle: "corner"
+  core:
+    disabledPackages: [
+      "color-picker"
+      "Hydrogen"
+      "atom-html-preview"
+      "color-tabs"
+      "linter"
+      "linter-ui-default"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "neutron-dark-ui"
+      "zhk-dark-syntax"
+    ]
+  editor:
+    fontSize: 12
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "dc1dcf72-9cff-4a43-9e0b-aa85f23efff8"
+  "ftp-remote-edit":
+    config: "c70777e01e0371222035e692d61ebec9ca128cfa8ac0cc1685487a20788cbfb0c9d9ece0b2cbd508812a82ca1a58ac82d0f765d5ee818ba7bd23f2c355d55805321f80762a42af92a177b2fe1bf69b85d458a246e347b993d3f05e3eb9c7c3edfe4d21f290d7395411f6fd39ed8afcd86e4ffe5fce069c235e100bdb474dd2ef51723ddf6bc18ad5d4ac62b0e8ae2ca3e26148cb9671e4f03ef9113ec83df8e5a807d2f34374510bdfee54e7a808be521dcc9b06005faa528f3dc1feb20e21cc59af23114b733ef5f778a46ddf996ee92f54c0378b01b46a678b79add65c1f94b815c5ccd401556583d2ed4f867cb3c3e9839c5e0be83c7b25bc85d0ba45a30f2e563b9bb8d2ae17822722a4da026cfe01b23e6936db19f9437e37484ac66af7cc441fbbc812b7fbb237d11da671d98981a949b97fc89fd238e02710393da0fb106c4d304bea61498a886d732c01f91a51123d30e16267bbe4a8beabfd470488bd0d2da268cbeaf2637bf90c1c8298452bb0c1169ee52410034c15ec0377b56f296f83de0799438f171516d4d30aa01e2ebf16af6f6e1547bfcb1c6e338670a1a74c4562088c6c1c96da8746eebc5eefa599b0b838776d245561abca9ed7c5800c4e484909f127f93baf31503aca9c807244cfc8f33ae3fa5e5fdc9facfe9de0a6ccb102e9ce57b3cb8176fbe31f40d7eac74e0dfca062bd8029a27f7c69f1310e36db55b1ea54cd3d1bc741ce66228cf7d50c862e5f552b95433ca0418b6d371bfefc1d180fce20240fe84a3cc9c611587498c35605a481d8cdb4e7590bd5b2f37c2478af3708941220325aebe4d1be3852307e9d4b6fbf9a743114c35f5154f64e5944fd4ed4933136ce169e0bbe3b2a448216e8aaeb219a25fb4155c5ef32d5b84332c51e8794115ca86ac8ecc052fd2d9f6aa9225764f65871b05c295f53c2b8c0f8b8559afc9499605dd1358d10f9c74a1ee13605da7321b8c3e591692b30b056ac8b6b4e5b2480dceafd6d57fe8d455d33bd0b1050263b051479679b0047f73d3899eae447d360fb07db2712b246051ccaad9c65030c8d3ebec04888eae1e8e6e69f16b70269630b657bb6260a14db82ad49f31c28ec0828e82793ff35720efc226b2815a195787a5b4e4266dff4b795410077e109ef6055d40f086d04467052ed0dacfbba38f2bccab10e0f5826499d07a85908b435a744e3e563bcf712c4a9d05fc1627aa9117eadd6d909a087533b8151569552be26cac872536463911797d3b97fc03eae5b504603b942deff0ae89cf67742d8ac872af353c341d18b44ea4cc92cf30a9f8224574e03ceb26c153fda287ed69ce7a6ae46a5b34b2eec1af1d55afd3b3231927b96f3997fe1fbd9a419c6213f6e5616edc715802f12741b37dae22366917446df14437ab6d5c4510e2a3876ca8d2eac80405622dd1d1cb21fa12cbdec2a9fd7ce0f74c1ae688b32096cd721361cf3cacaeae0e8ceaeec8b92670e170505f1f0c71a58abf4196cba35eb8b296f24314b6cb12f3dea074f628b5e7ababb88279b37c11a4685be488c50d3d2b914358bb5e15d2fe750462e2edd4f5a0b4ddc205fb642730d64c67ce2d1a669f8e423d6b5ccafa4f88221c14250116adb11992b6cc982841fa8cf1e85f7619569e05aa7c9b37bd7fca7291300d0ff0f5967cd201f16ae5a759554d4694a7fdb7adb92569ac47e012add42bed338c9c3deb6f8447eaa5fd1d124fe98082e10aba35c1ef055907c09db5e91df49c737f1656c487300af7cca0330bb9d65076f2514a3aaf880a58056d2c5c70afbc3adb0353d456877d8a4a43146af680801adb4ac72f36aec0883c431fdf5804c7e88eb0b300d2c9f3ebe6a39e256ccacdab53c93e347cca0f3baa6ccf543182438055261317affb7daa5ba18c00c161839109dc705b321ac818a7f9774c08956eb4757bbdf48fb1e4e8f469b9a0eb4fe4739ae779a660e1ec863e434f796e540b7a4c972aa067dbd4dc13b73337e0cf6a9c481ebf3718efcbce509c534dcf3f97e11940d07c1d1b4c80ebf9bff84171cbdbcbe9719fba4953e0f4c403530708a733afeb72a9a02c39dbd820aae00869393608f2f3d1fe750973525fa5672917766da9f2066a8126b785ab74d3192dc15b67b6d6d652892541089bc4834e6f473b09f667f0fe26c949258eec883089fcf193949824807e84792b9a62f23ed5bf85875a61d9a6a63e6e8d7c01c6c1dabe42bb4dcbd865660228de4ab6b7ff5593f3258613752f2538d6a4a274e59dbef2f78352186d708b445dbe670f3e599b5f030495550626c74822530e354da1b57b08006a87bbf3dbcb43f61fd8b5e30acd3968c8467e61b8f914d093d208b1fc25266c940d4"
+    finder: {}
+    password: "d91231eb0d287b78564793cf"
+  "linter-ui-default":
+    panelHeight: 300
+  minimap:
+    charWidth: 2
+    minimapScrollIndicator: false
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+    scrollAnimation: true
+    textOpacity: 0.7
+  pigments:
+    autocompleteSuggestionsFromValue: true
+    extendAutocompleteToColorValue: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
